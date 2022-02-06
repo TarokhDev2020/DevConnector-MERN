@@ -26,7 +26,7 @@ This is a MERN stack application. It is a small social network app that includes
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/TarokhDev2020/ExpenseTracker-MERN.git
+  git clone https://github.com/TarokhDev2020/DevConnector-MERN.git
   cd my-project
   npm install
   cd client
