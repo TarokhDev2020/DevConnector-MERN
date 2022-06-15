@@ -3,6 +3,13 @@
 
 This is a MERN stack application. It is a small social network app that includes authentication, profiles and forum posts.
 
+## Features
+* Register and login functionality
+* Add your own experiences and work histories as a developer
+* See other developer's experiences and work histories
+* Submit posts
+* Comment on other developer's posts
+
 ## Dependencies
 
 - bcryptjs
