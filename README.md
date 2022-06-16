@@ -38,9 +38,19 @@ This is a MERN stack application. It is a small social network app that includes
 <img src="https://user-images.githubusercontent.com/72879576/174015536-7b66c8b9-f8c3-4c1b-b028-36274b4825e7.png" alt="DevConnector" width="350"/>
 <img src="https://user-images.githubusercontent.com/72879576/174015558-d325560b-5ead-43cc-a7c0-9d912ac7a153.png" alt="DevConnector" width="350"/> -->
 
-<img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/> <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
+</p>
 
 ## Installation
 
